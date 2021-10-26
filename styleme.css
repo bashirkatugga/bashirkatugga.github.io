@@ -12,10 +12,7 @@ body{
 
     background-color: #D3CDCC ;
 }
-.imagecontainer{
-
-}
-img{
+img.imagecontainer{
     width: 400px;
     height: 400px;
 }
