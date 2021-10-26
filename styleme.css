@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+}
+h2{
+    color: blue;
+}
+em{
+    color: #EC7063;
+}
+
+body{
+
+    background-color: #D3CDCC ;
+}
+.imagecontainer{
+
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+p{
+    font: italic 16px Arial, Helvetica, sans-serif;
+}
