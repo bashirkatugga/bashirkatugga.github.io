@@ -1,0 +1,36 @@
+h1{
+    background-color: gray;
+    color: palegreen;
+    text-decoration: underline;
+    font-family:serif;
+}
+.header{
+    text-align: center;
+}
+.underline{
+    text-decoration: underline;
+}
+.bold{
+    font-weight: bold;
+}
+.strike{
+    text-decoration: line-through;
+}
+.quote{
+    background-color: yellowgreen;
+}
+.images{
+    align-items: flex-end;
+    float: right;
+}
+.cssimage{
+    width: 90px;
+    height: 30px;
+}
+.copyright{
+    align-items: flex-end;
+    float:right;
+}
+.links{
+    color: yellowgreen;
+}
