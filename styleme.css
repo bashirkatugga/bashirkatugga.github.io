@@ -1,8 +1,9 @@
 h1{
-    color: blue;
+    color: blueviolet;
+    font-size: xx-large;
 }
 h2{
-    color: blue;
+    color: blueviolet;
 }
 em{
     color: #EC7063;
@@ -10,7 +11,7 @@ em{
 
 body{
 
-    background-color: #D3CDCC ;
+    background-color: #c7bfb7 ;
 }
 img.imagecontainer{
     width: 400px;
@@ -28,5 +29,5 @@ a{
     text-decoration-line: none;
 }
 dt{
-    color: orange;
+    color: rgb(114, 75, 3);
 }

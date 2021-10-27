@@ -1,6 +1,6 @@
 h1{
-    background-color: gray;
-    color: palegreen;
+    background-color: rgba(114, 118, 119, 0.281);
+    color: rgba(134, 180, 7, 0.788);
     text-decoration: underline;
     font-family:serif;
 }
@@ -17,7 +17,7 @@ h1{
     text-decoration: line-through;
 }
 .quote{
-    background-color: yellowgreen;
+    background-color: #FFFFA8;
 }
 .images{
     align-items: flex-end;
@@ -32,5 +32,5 @@ h1{
     float:right;
 }
 .links{
-    color: yellowgreen;
+    color: rgba(134, 180, 7, 0.788);
 }
