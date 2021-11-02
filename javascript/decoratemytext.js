@@ -3,8 +3,6 @@
 function onclickFunc(){
     //alert('Hello, world');
     var text = document.getElementById('decorationTest');
-    //button.onclick = onclickFunc;
-    
     var fontSize = window.getComputedStyle(text, null).getPropertyValue('font-size');
     var currentSize = parseInt(fontSize);
     currentSize += 2;
@@ -21,14 +19,6 @@ function textSizeChanger() {
         timer = null;
     }
 }
-
-// function(){
-//     var button = document.getElementById('decoration');
-//     button.onclick = onclickFunc;
-//     var textdesign = document.getElementById('decorationTest');
-//     textdesign.style.fontSize = '24pt';
-    
-// }
     
     function textchange(){
         var blingcheck = document.getElementById('bling');
